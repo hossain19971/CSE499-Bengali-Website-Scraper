@@ -1,5 +1,4 @@
 # CSE499-Bengali-Website-Scraper
 
-
-
-Project Overview：CNN and ANN architectures used to differentiate between male and female voices from audio samples and recognize the gender.
+Bengali Website Scraper.
+Project Overview：Web Scraping refers to data scraping used for extracting data from websites. Our project is to build a web scraper using beautifulsoup and mongodb to scrape data, mainly text, from bangla websites and store it in a database.
